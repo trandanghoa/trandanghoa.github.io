@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Lorraine (France), 2017
+* M.S. in Computer Science, Kumoh National Institute of Technology (South Korea), 2012
+* B.S. in Electronic, Electrical Engineering, Hanoi University of Science and Technology (Viet Nam), 2010
 
 Work experience
 ======
