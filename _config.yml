@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "HOA.JPEG"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  name             : "Hoa Tran-Dang"
   pronouns         : # example: "she/her"  
   bio              : "Research Professor | IEEE Senior Member"
   location         : "South Korea"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Hoa Tran-Dang"
+  linkedin         : "https://www.linkedin.com/in/hoa-tran-dang-13520958/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
