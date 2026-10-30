@@ -27,10 +27,10 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2010-2012: Research Assistant
+  * KIT University
+  * Duties included: Master
+  * Supervisor: Professor Dong-Seong Kim
   
 Skills
 ======
