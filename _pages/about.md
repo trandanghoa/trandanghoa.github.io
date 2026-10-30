@@ -35,7 +35,7 @@ My recent research investigates the integration of Digital Twins, distributed le
 
 I have authored and co-authored research articles, book chapters, and books in the areas of IoT, fog computing, edge intelligence, distributed computing, and communication networks.
 
-For my complete publication list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=OgwXVuMAAAAJ).
+For my complete publication list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=OgwXVuMAAAAJ&hl=en).
 
 ## Academic and Professional Activities
 
